@@ -1,24 +1,19 @@
 # Prueba Técnica Pokedex
 Pokedex Sencilla con despliegue de informacion de los pokemons y busqueda de pokemon por nombre
 
-## Contenido
-
 ## Demo
 
 Si quieres ver el demo de este proyecto en produccion en el siguiente link [Demo pokedex](https://pokedexdeploy-rcs722eks-kevinjoel.vercel.app/)
 
 ## ¿Comó Clonarlo?
-If you have special requirements, you have to list it step by step.
-* This is the first step
-* Then you have to do this
-* Finally do this
-
-Markdown has enumation and nested lists.
+No hay ningún requerimiento especial para esto, solo descargalo por https o con git clone.
+* Sigue los paso de instalacion
 
 ## Installation
-To install and run this proyect just type and execute
+Para instalar y ejecutar este proyecto simplemente escriba y ejecute en su terminal de consola.
+* Instalaremos las todas las dependencias necesarias, Una vez que termine para ejecutar la aplicacion
 ```bash
-npm install
+npm install && npm start
 ```
 
 ## Preview
