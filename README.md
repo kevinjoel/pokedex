@@ -9,9 +9,9 @@ Si quieres ver el demo de este proyecto en produccion en el siguiente link [Demo
 No hay ningún requerimiento especial para esto, solo descargalo por https o con git clone.
 * Sigue los paso de instalacion
 
-## Installation
+## Instalación
 Para instalar y ejecutar este proyecto simplemente escriba y ejecute en su terminal de consola.
-* Instalaremos las todas las dependencias necesarias, Una vez que termine para ejecutar la aplicacion
+* Instalaremos las todas las dependencias necesarias, Una vez que termine se ejecutara la app
 ```bash
 npm install && npm start
 ```
