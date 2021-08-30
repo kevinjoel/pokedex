@@ -1,2 +1,2 @@
-# pokedex
+# Prueba Técnica Pokedex
  pokedex challenge
